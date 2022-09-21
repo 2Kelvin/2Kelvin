@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2Kelvin, an aspiring Mobile App Developer
-- 👀 I’m interested in Coding, Art and Basketball
+- 👀 I’m interested in Art, Programming, Computers, Cycling and Basketball
 - 🌱 I’m currently learning `React JS` and `Node JS`
 
 <!---
