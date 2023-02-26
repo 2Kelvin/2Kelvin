@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2Kelvin
+- 👋 Hi, I’m Kelvin
 - 👀 I’m interested in Art, Programming, Computers, Cycling, Fingerstyle guitar and Basketball
 - 🌱 I’m currently learning `React JS`
 
