@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @2Kelvin, an aspiring Mobile App Developer
-- 👀 I’m interested in Art, Programming, Computers, Cycling and Basketball
-- 🌱 I’m currently learning `React JS` and `Node JS`
+- 👋 Hi, I’m @2Kelvin
+- 👀 I’m interested in Art, Programming, Computers, Cycling, Fingerstyle guitar and Basketball
+- 🌱 I’m currently learning `React JS`
 
 <!---
 2Kelvin/2Kelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
