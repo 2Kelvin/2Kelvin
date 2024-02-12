@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin a `React JS` Developer
-- 🔥: The will of fire 🔥:
+- 🔥 The will of fire 🔥
 - 🌱 I’m currently learning `Backend Programming`
 
 <!---
