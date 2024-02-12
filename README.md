@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin a `React JS` Developer
-- 👀 I’m interested in Fine art, Programming, Computers, Cycling, Fingerstyle guitar and Basketball
+- 🔥: The will of fire 🔥:
 - 🌱 I’m currently learning `Backend Programming`
 
 <!---
