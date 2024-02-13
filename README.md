@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Kelvin a `React JS` Developer
-- 🔥 The will of fire 🔥
-- 🌱 I’m currently learning `Backend Programming`
+🔥 The will of fire 🔥
 
 <!---
 2Kelvin/2Kelvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
