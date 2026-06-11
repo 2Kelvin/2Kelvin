@@ -16,11 +16,13 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 
 ---
 
-### 📊 GitHub Stats & Footprint
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=2Kelvin&show_icons=true&theme=visual_studio_dark&count_private=true" height="170px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Kelvin&layout=compact&theme=visual_studio_dark&hide=html,css,javascript" height="170px" alt="Top Languages" />
+&nbsp; underground-stack-stats &nbsp;
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2Kelvin&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Kelvin&layout=compact&theme=dark&hide=html,css,javascript" alt="Top Languages" width="48%" />
 </p>
 
 ---
