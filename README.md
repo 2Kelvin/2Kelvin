@@ -16,7 +16,7 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 **Core Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,kubernetes, ubuntu,aws,terraform,docker,githubactions,git,bash,py,nginx" alt="My Skills" />
 </p>
 
 ### 🤝 Let's Connect
