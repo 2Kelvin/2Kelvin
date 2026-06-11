@@ -29,7 +29,7 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 ### 🚀 Featured Open Source Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ACTUAL_USERNAME&repo=YOUR_TERRAFORM_REPO_NAME&theme=dark" width="48%" alt="Project Card 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2Kelvin&repo=nginx-web-server&theme=dark" width="48%" alt="Project Card 1" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ACTUAL_USERNAME&repo=YOUR_CICD_REPO_NAME&theme=dark" width="48%" alt="Project Card 2" />
 </p>
 
