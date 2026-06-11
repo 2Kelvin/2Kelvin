@@ -1,5 +1,5 @@
 # Hi there, I'm Kelvin 👋 
-### Linux Systems & DevOps Engineer | AWS | Kubernetes
+### Linux Systems Engineer | AWS | Kubernetes
 
 I bridge the gap between complex cloud infrastructure and human-centric engineering. With deep technical expertise in Linux automation, CI/CD, and AWS, combined with a background in **Counseling Psychology**, I bring a rare blend of decisive technical execution and calm, level-headed leadership to critical system environments.
 
