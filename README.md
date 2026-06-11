@@ -16,11 +16,11 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 **Core Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx,mysql" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx" alt="My Skills" />
 </p>
 
 ### 🤝 Let's Connect
 
 *   🌍 Available for global remote opportunities in these timezones (GMT, CET and EST)
 *   💬 Ask me about **Infrastructure as Code, Dockerizing workflows, Container Ochestration and System Hardening.**
-*   ⚡ Thanks to my psychology background, I treat high-pressure production outages with the same structured, level-headed calm required in crisis management.
+*   ⚡ My psychology background means that I treat high-pressure production outages with the same structured, level-headed calm required in crisis management.
