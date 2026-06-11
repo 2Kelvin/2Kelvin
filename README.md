@@ -16,26 +16,10 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 
 ---
 
-### 🏆 GitHub Achievements
+### 🛠️ Core Stack & Tools
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=2Kelvin&theme=onerd&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 🚀 Featured Open Source Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2Kelvin&repo=nginx-web-server&theme=dark" width="48%" alt="Project Card 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ACTUAL_USERNAME&repo=YOUR_CICD_REPO_NAME&theme=dark" width="48%" alt="Project Card 2" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ACTUAL_USERNAME&repo=YOUR_NGINX_REPO_NAME&theme=dark" width="48%" alt="Project Card 3" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ACTUAL_USERNAME&repo=YOUR_SYSTEMD_REPO_NAME&theme=dark" width="48%" alt="Project Card 4" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx,mysql" alt="My Skills" />
 </p>
 
 ---
