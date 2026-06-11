@@ -14,9 +14,8 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 | **CI/CD & Automation** | GitHub Actions, Git, Bash Scripting, Python |
 | **Linux & Networking** | Ubuntu/RHEL, Systemd, Nginx, TCP/IP, DNS, Firewalls |
 
----
 
-### 🛠️ Core Tools
+**Core Tools**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx,mysql" alt="My Skills" />
