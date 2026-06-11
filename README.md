@@ -7,16 +7,20 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 
 ### 🛠️ Core Stack & Expertise
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx,mysql" alt="My Skills" />
-</p>
-
 | Category | Technologies |
 | :--- | :--- |
 | **Cloud & Infrastructure** | AWS (EC2, S3, VPC, EKS, IAM), Terraform (IaC) |
 | **Containers & Orchestration** | Docker, Kubernetes (K8s), Docker Compose |
 | **CI/CD & Automation** | GitHub Actions, Git, Bash Scripting, Python |
 | **Linux & Networking** | Ubuntu/RHEL, Systemd, Nginx, TCP/IP, DNS, Firewalls |
+
+---
+
+### 🛠️ Core Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,terraform,docker,kubernetes,githubactions,git,bash,py,nginx,mysql" alt="My Skills" />
+</p>
 
 ---
 
