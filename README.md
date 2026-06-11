@@ -23,4 +23,4 @@ I bridge the gap between complex cloud infrastructure and human-centric engineer
 
 *   🌍 Available for global remote opportunities in these timezones (GMT, CET and EST)
 *   💬 Ask me about **Infrastructure as Code, Dockerizing workflows, Container Ochestration and System Hardening.**
-*   ⚡ Fun Fact: Thanks to my psychology background, I treat high-pressure production outages with the same structured, level-headed calm required in crisis management.
+*   ⚡ Thanks to my psychology background, I treat high-pressure production outages with the same structured, level-headed calm required in crisis management.
